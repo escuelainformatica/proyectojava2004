@@ -51,3 +51,11 @@ class Clase {
 * char = caracter.
 * String = texto.
 
+## tipos de clases
+
+> son descriptivos
+
+* clases de dominio: tienen campos y tienen metodos. (evitar)
+* clases de servicios: idealmente deben tener metodos.
+* clases de modelo o entidad: idealmente solo tienen campos.
+
