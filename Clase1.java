@@ -13,8 +13,8 @@ public class Clase1 {
         long numerolargo=30;
 
         // float = decimal
-        float decimal=20.3;
-        bool boleano=true; // false
+        float decimal=20.3f;
+        boolean boleano=true; // false
         
         // char (poco comun de usar)
         char car='a';
