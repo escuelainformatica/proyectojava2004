@@ -14,6 +14,8 @@ public class Clase3 {
         cli.deuda=1000;
         cli.correo="aaaa@bbb.com";
 
+     
+
         // 
         ClienteServicio clisrv=new ClienteServicio();
         clisrv.mostrarCliente(cli);
