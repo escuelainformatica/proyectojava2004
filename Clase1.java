@@ -1,3 +1,5 @@
+package ejercicio1;
+
 
 public class Clase1 {
     // campos

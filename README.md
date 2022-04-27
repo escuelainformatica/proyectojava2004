@@ -6,7 +6,6 @@
 * **variable** o **funcion**, partir en minuscula. ejemplo: "rut", "ingresarCosto"
 * **nombre compuesto**, formato de camello.  ejemplo: NombreApellido (clase), nombreApellido
 
-
 # clase
 
 * la clase la definimos en un archivo con el mismo nombre de la clase (.java)

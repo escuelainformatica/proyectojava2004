@@ -1,3 +1,5 @@
+package ejercicio1;
+
 
 // clase de modelo o de entidad
 public class Cliente {

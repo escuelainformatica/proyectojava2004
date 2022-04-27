@@ -1,3 +1,5 @@
+package ejercicio1;
+
 public class Clase2 {
 
     public static String campo="valor del campo";

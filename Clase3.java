@@ -1,3 +1,5 @@
+package ejercicio1;
+
 public class Clase3 {    
     public static void main(String args[]) {
         // tipos de variables primitivas
@@ -14,7 +16,7 @@ public class Clase3 {
         cli.deuda=1000;
         cli.correo="aaaa@bbb.com";
 
-     
+        
 
         // 
         ClienteServicio clisrv=new ClienteServicio();
